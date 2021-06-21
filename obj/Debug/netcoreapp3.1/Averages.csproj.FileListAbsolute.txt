@@ -1,0 +1,12 @@
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/Averages/bin/Debug/netcoreapp3.1/Averages.deps.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/Averages/bin/Debug/netcoreapp3.1/Averages.runtimeconfig.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/Averages/bin/Debug/netcoreapp3.1/Averages.runtimeconfig.dev.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/Averages/bin/Debug/netcoreapp3.1/Averages.dll
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/Averages/bin/Debug/netcoreapp3.1/Averages.pdb
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/Averages/obj/Debug/netcoreapp3.1/Averages.csprojAssemblyReference.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/Averages/obj/Debug/netcoreapp3.1/Averages.AssemblyInfoInputs.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/Averages/obj/Debug/netcoreapp3.1/Averages.AssemblyInfo.cs
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/Averages/obj/Debug/netcoreapp3.1/Averages.csproj.CoreCompileInputs.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/Averages/obj/Debug/netcoreapp3.1/Averages.dll
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/Averages/obj/Debug/netcoreapp3.1/Averages.pdb
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/Averages/obj/Debug/netcoreapp3.1/Averages.genruntimeconfig.cache
